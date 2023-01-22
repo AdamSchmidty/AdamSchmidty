@@ -1,10 +1,12 @@
- Hi, I’m Adam Schmidt
+Hi, I’m Adam Schmidt
  
-I'm a Computer Science major! I'm expecting to graduate sometime in 2023-2024.
+I'm a Computer Science major! I'm expecting to graduate Fall 2023.
 
 https://www.linkedin.com/in/adam-schmidt-a947b3224/
 
-My Computer Science inspiration: https://www.youtube.com/watch?v=hkDD03yeLnU
+[Resume]{https://www.youtube.com/watch?v=dQw4w9WgXcQ}
+
+
 <!---
 Carry on my wayward son
 --->
