@@ -1,3 +1,2 @@
-Software Engineer @ Walmart
-
+Software Engineer
 
